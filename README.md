@@ -32,7 +32,7 @@ Slicers / Filters
 Store-wise Comparison Charts
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Power BI
 - DAX
 - Data Visualization
