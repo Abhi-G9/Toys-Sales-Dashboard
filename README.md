@@ -5,16 +5,15 @@ Project Description:-
 Developed an interactive Toys Sales Dashboard using Microsoft Power BI to analyze sales performance, profit, inventory, and store growth across different cities and locations. The dashboard helps businesses track important KPIs and make data-driven decisions through interactive visualizations and filters.
 The dashboard includes multiple charts, KPI cards, and slicers to provide insights about top-performing stores, low-performing cities, profit trends, and inventory analysis.
 
-## Key Questions Solved by Dashboard:-
-
-Which store generated the highest sales?
-Which city has the maximum profit?
-Which stores are underperforming?
-What is the total revenue and total profit?
-How does inventory impact sales performance?
-Which product categories perform best?
-What are the monthly and yearly sales trends?
-Which location needs business improvement?
+##  Key Questions Solved
+- Which store generated the highest sales?
+- Which city has the maximum profit?
+- Which stores are underperforming?
+- What is the total revenue and total profit?
+- How does inventory impact sales performance?
+- Which product categories perform best?
+- What are the monthly and yearly sales trends?
+- Which location needs business improvement?
 
 Data Source:-
 
