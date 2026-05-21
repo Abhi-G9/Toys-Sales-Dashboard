@@ -55,5 +55,8 @@ Comparative analysis across locations
 
 Dashboard Screenshot
 
+![Dashboard 1](https://github.com/Abhi-G9/Toys-Sales-Dashboard/blob/main/Screenshot%202026-05-21%20111714.png)
+ ![Dashboard 2](https://github.com/Abhi-G9/Toys-Sales-Dashboard/blob/main/Screenshot%202026-05-21%20111730.png)
+ ![Dashboard 3](https://github.com/Abhi-G9/Toys-Sales-Dashboard/blob/main/Screenshot%202026-05-21%20111747.png)
 
 
