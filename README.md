@@ -41,18 +41,15 @@ DAX
 Data Visualization
 Power Query 
 
-
-Features
-Interactive dashboard design
-Dynamic filtering using slicers
-Store-wise sales analysis
-Profit tracking by city
-Inventory monitoring
-User-friendly visual interface
-Business performance insights
-Comparative analysis across locations
-
-
+## 🚀 Features
+- Interactive dashboard design
+- Dynamic filtering using slicers
+- Store-wise sales analysis
+- Profit tracking by city
+- Inventory monitoring
+- User-friendly visual interface
+- Business performance insights
+- Comparative analysis across locations
 Dashboard Screenshot
 
 ![Dashboard 1](https://github.com/Abhi-G9/Toys-Sales-Dashboard/blob/main/Screenshot%202026-05-21%20111714.png)
