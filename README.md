@@ -34,14 +34,13 @@ Slicers / Filters
 Store-wise Comparison Charts
 
 
-Technologies Used:-
+## 🛠️ Technologies Used
+- Power BI
+- DAX
+- Data Visualization
+- Power Query
 
-Power BI
-DAX
-Data Visualization
-Power Query 
-
-## 🚀 Features
+##  Features
 - Interactive dashboard design
 - Dynamic filtering using slicers
 - Store-wise sales analysis
