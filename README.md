@@ -7,14 +7,14 @@ The dashboard includes multiple charts, KPI cards, and slicers to provide insigh
 
 Key Questions Solved by Dashboard:-
 
-Which store generated the highest sales?
-Which city has the maximum profit?
-Which stores are underperforming?
-What is the total revenue and total profit?
-How does inventory impact sales performance?
-Which product categories perform best?
-What are the monthly and yearly sales trends?
-Which location needs business improvement?
+-Which store generated the highest sales?
+-Which city has the maximum profit?
+-Which stores are underperforming?
+-What is the total revenue and total profit?
+-How does inventory impact sales performance?
+-Which product categories perform best?
+-What are the monthly and yearly sales trends?
+-Which location needs business improvement?
 
 Data Source:-
 
